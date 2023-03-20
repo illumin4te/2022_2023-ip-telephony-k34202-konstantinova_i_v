@@ -1,3 +1,4 @@
+University: ITMO University Faculty: FICT Course: IP-telephony Year: 2022/2023 Group: K34202 Author: Konstantinova Iuliia Vyacheslavovna Lab: Lab1 Date of create: 16.03.2023 Date of finished: Цель: изучить построение сети IP-телефонии с помощью маршрутизатора Cisco 2811, коммутатора Cisco 3560 и IP телефонов Cisco 7960.
 Цель: изучить рабочую среду Cisco Packet Tracer, ознакомиться с интерфейсами основных устройств, типами кабелей, научиться собирать топологию, изучить построение сети IP-телефонии с помощью маршрутизатора, коммутатора и IP телефонов Cisco 7960 в среде Packet Tracer
 
 Ход работы:
