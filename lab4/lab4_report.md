@@ -1,3 +1,4 @@
+University: ITMO University Faculty: FICT Course: IP-telephony Year: 2022/2023 Group: K34202 Author: Konstantinova Iuliia Vyacheslavovna Lab: Lab3 Date of create: 27.03.2023 Date of finished:
 
 Цель: изучить построение сети IP-телефонии между удаленными филиалами с помощью маршрутизаторов Cisco 2811 и коммутаторов Cisco 2950Т.
 
